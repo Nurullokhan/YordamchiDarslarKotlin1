@@ -2,9 +2,8 @@ package Lesson2
 
 fun main(args: Array<String>) {
 
-    //1-topshiriq
-    //
-    //Berilgan uchta sonning o’rta arifmetigini hisoblash dasturini tuzing.
+    //todo 1-topshiriq
+    // Berilgan uchta sonning o’rta arifmetigini hisoblash dasturini tuzing.
 
     val a = 5
     val b = 6

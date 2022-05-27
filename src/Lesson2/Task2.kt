@@ -2,9 +2,8 @@ package Lesson2
 
 fun main(args: Array<String>) {
 
-    //2-topshiriq
-    //
-    //Kvadrat tomoni berilgan. Ushbu kvadratning perimetrini va yuzasini topish dasturini tuzing.
+    //todo 2-topshiriq
+    // Kvadrat tomoni berilgan. Ushbu kvadratning perimetrini va yuzasini topish dasturini tuzing.
 
     val side = 7
     var perimeter = 0
